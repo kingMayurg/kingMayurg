@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hey, I'm Mayur Gupta
 
-<!--
-**kingMayurg/kingMayurg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student at IIIT Pune  
+💡 Passionate about C++, Python,Competetive Programming and Machine Learning  
+---
+## 🚀 Tech Stack
+- **Languages:** C++,Python,C
+- **Tech & Tools:** Github,VS Code
+- **Domains:** Competitive Programming, ML (beginner), DSA
+---
+## 🔥 Currently Working On
+- Becoming a grandmaster coder on Codeforces
+- Learning Python for Machine Learning
+- Building projects in C++ and Python
+- Preparing for internships at Google & top tech firms
+---
+## 🌐 Let's Connect 
+- 💼 [LinkedIn](https://www.linkedin.com/in/mayur-gupta-308610355/)   
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> 🧠 "Code like a king, debug like a legend." – kingMayurg 👑
